@@ -7,6 +7,7 @@ public class DeliveryPartner {
 
     public DeliveryPartner(String id) {
         this.id = id;
+       this.numberOfOrders=0;
 
     }
 
